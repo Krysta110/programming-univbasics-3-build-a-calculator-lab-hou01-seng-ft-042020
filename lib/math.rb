@@ -10,11 +10,11 @@ end
 
 def division(num1, num2)
 div=num1/num2
-return div 
+return div
 end
 
 def multiplication(num1, num2)
-mul= num1*num2 
+mul= num1*num2
 retunr mul
 end
 
